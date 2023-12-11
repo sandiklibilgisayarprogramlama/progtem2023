@@ -90,8 +90,10 @@ for i in range(1, 6):
 
 # odev
 # 0 ile 100 arasındaki sayıların toplamını ekrana yazdıran programı kodlayınız.
+
 # 0 ile 100 arasındaki 3 e ve 5 e bölünen sayıların toplamını ekrana yazdıran
 # programı kodlayınız.
+
 # aşağıdaki simgeyi ekrana yazdıran programı kodlayınız.
 """
 ***
