@@ -78,7 +78,7 @@ for i in range(len(metin)):
 # karakter dizileri birleştirilebilir.
 ad = "Ahmet"
 soyad = "Yılmaz"
-print(ad+" "+soyad)
+print(ad, " ", soyad)  # print(ad+" "+soyad)
 
 # karakter dizileri çarpılabilir.
 print(ad*3)
